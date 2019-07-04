@@ -10,4 +10,3 @@ ibm-web-ext.xml
 **/webapp/app/
 **/.vscode
 **/node
-**/package-lock.json
